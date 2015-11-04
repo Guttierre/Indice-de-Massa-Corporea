@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="action_settings">Settings</string>
+    <!--My Strings-->
+    <string name="peso">Weight:</string>
+    <string name="altura">Height:</string>
+    <string name="imc">CALCULATE</string>
+    <string name="total">Your IMC result is:</string>
+    <string name="classificacao1">You are underweight</string>
+    <string name="classificacao2">Congratulations! You are in the ideal weight</string>
+    <string name="classificacao3">Heads up ! You are Slightly Overweight</string>
+    <string name="classificacao4">Carefully! You are obese grade I</string>
+    <string name="classificacao5">Very carefully! You are with class II obesity ( Severe )</string>
+    <string name="classificacao6">Alert ! You are with class III obesity ( Morbid )</string>
+</resources>

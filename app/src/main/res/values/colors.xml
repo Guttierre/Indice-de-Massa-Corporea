@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#7C4DFF</color>
+    <!--My Collors-->
+    <color name="TextView">#FFFFFF</color>
+    <color name="EditText">#FFFFFF</color>
+    <color name="ButtonTxt">#212121</color>
+    <color name="ButtonBkg">#FFFFFF</color>
+    <color name="Result">#212121</color>
+</resources>

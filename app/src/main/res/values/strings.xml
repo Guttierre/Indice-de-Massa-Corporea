@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Indice de Massa Corporea</string>
+    <string name="action_settings">Settings</string>
+    <!--My Strings-->
+    <string name="peso">Peso:</string>
+    <string name="altura">Altura:</string>
+    <string name="imc">CALCULAR</string>
+    <string name="total">O seu IMC é:</string>
+    <string name="classificacao1">Você está abaixo do peso</string>
+    <string name="classificacao2">Parabéns! Você está no peso ideal</string>
+    <string name="classificacao3">Atenção! Você está levemente acima do peso</string>
+    <string name="classificacao4">Cuidado! Você está com obesidade grau I</string>
+    <string name="classificacao5">Muito Cuidado! Você está com obesidade grau II (Severa)</string>
+    <string name="classificacao6">Alerta! Você está com obesidade III (Mórbida)</string>
+</resources>
